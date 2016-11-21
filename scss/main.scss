@@ -1,0 +1,25 @@
+$dark-color:gray;
+$light-color:#fea;
+$sun-color:#ff0;
+
+body{
+  font: Helvetica, sans-serif;
+}
+
+div{
+  .tornado{
+    color:$dark-color;
+  }
+  .raining{
+    color:$dark-color;
+  }
+  #snow{
+    color:$light-color;
+  }
+  hail{
+    color:$light-color;
+  }
+  #sun{
+    color:$sun-color;
+  }
+}
